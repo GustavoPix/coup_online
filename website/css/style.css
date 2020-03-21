@@ -1,0 +1,29 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ul, li, a, div, img, button, input {
+  margin: 0;
+  padding: 0;
+  min-width: 1px;
+  min-height: 1px;
+  font-style: none;
+  text-decoration: none;
+  font-weight: normal;
+  list-style-type: none;
+}
+
+body {
+  background: #171219;
+  color: #171219;
+}
+
+.hidden {
+  display: none;
+}
+
+* {
+  color: #E67015;
+}
+/*# sourceMappingURL=style.css.map */

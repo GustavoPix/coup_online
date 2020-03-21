@@ -1,0 +1,18 @@
+//Defaults
+@import "variables";
+@import "reset";
+@import "mixins";
+
+
+body{
+    background: $black;
+    color: $black;
+}
+
+.hidden{
+    display: none;
+}
+
+*{
+    color: $color1;
+}
